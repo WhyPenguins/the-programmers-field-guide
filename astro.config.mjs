@@ -30,7 +30,8 @@ export default defineConfig({
       wrap: true,
     },
   },
-  site: "https://programmers.guide",
+  site: "https://whypenguins.github.io",
+  base: "/the-programmers-field-guide",
   integrations: [
     starlight({
       title: "Field Guide",
